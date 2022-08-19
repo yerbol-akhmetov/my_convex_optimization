@@ -2,19 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task is to learn different optimization algorithms such as gradient descent, newton-raphson methods that helps to minimize (maximize) given functions.
 
 ## Description
-TODO - How have you solved the problem?
+The problem is solved by creating functions that find the root of the function based on, namely 1) bisection method, 2) newton-raphson method, 3) gradient descent method. In addition, a function is written that optimizes given function based on inequality constraints.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+There is no need for an explicit installation. However, the code can be executed using "python my_convex_optimization.py" command.
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+The functions inside of the project can be directly copied into required python notebooks, or they can be imported using import commands.
 
 ### The Core Team
 
